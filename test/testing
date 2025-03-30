@@ -5,5 +5,3 @@
 4444444
 5555555
 git rebase re-applies your changes (commits) from one branch on top of another branch. Instead of creating a merge commit, it moves your commits to a new base (the latest commit of the branch you're rebasing onto).
-
-
